@@ -5,6 +5,10 @@ Prática para agrupamento de pessoas de acordo com o grupo de risco que se encon
 ## O que é ?
 Aqui será explorado a Coleta, Preparação, Análise e Visualização de dados.
 
+## Versões:
+ETL_EtapasProcessamento - versão com comentários sobre as bibliotecas e métodos usados. Aconselhado para estudantes.<br>
+ETL_ClearVersion - versão só com a aplicação.
+
 ## Nesta prática utilizamos:
 Python<br>
 Pandas<br>
